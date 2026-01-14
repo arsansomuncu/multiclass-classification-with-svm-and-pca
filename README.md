@@ -19,6 +19,7 @@ Accuracy: Often drops slightly after PCA because some information is lost (the 5
 Computational Cost: Training time should decrease significantly. The original dataset has 561 features. PCA often reduces this to fewer than 100 components for HAR data, speeding up the SVM solver drastically.
 
 
+<Figure size 1000x600 with 1 Axes><img width="846" height="547" alt="image" src="https://github.com/user-attachments/assets/95d94801-126a-4163-970e-9d713461e912" />
 
 
 
